@@ -1,0 +1,20 @@
+#new{
+    width: 50%;
+    background-color: rgb(195, 211, 206);
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 50px;
+}
+@media (max-width: 1080px){
+    #new{
+        width: 50%;
+        background-color: rgb(195, 211, 206);
+        text-align: center;
+        margin-left: 25%;
+        margin-top: 5%;
+        border-radius: 50px;
+    }
+
+    
+}
